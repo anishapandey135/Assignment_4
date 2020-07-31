@@ -1,0 +1,82 @@
+FOR STICKS = 14
+
+
+enter the initial number of sticks in the box                                                                                      
+14                                                                                                                                 
+AI's chance first                                                                                                                  
+ Opponent chose:1                                                                                                                  
+Enter value: 3                                                                                                                     
+                                                                                                                                   
+ Opponent chose:1                                                                                                                  
+Enter value: 2                                                                                                                     
+                                                                                                                                   
+ Opponent chose:2                                                                                                                  
+Enter value: 3                                                                                                                     
+                                                                                                                                   
+ Opponent chose:1                                                                                                                  
+AI won     
+
+
+
+
+____________________________________________________________________________________________________________________
+
+FOR STICKS = 21
+
+enter the initial number of sticks in the box                                                                                      
+21                                                                                                                                 
+AI's chance first                                                                                                                  
+ Opponent chose:1                                                                                                                  
+Enter value: 3                                                                                                                     
+                                                                                                                                   
+ Opponent chose:1                                                                                                                  
+Enter value: 2                                                                                                                     
+                                                                                                                                   
+ Opponent chose:1                                                                                                                  
+Enter value: 1                                                                                                                     
+                                                                                                                                   
+ Opponent chose:3                                                                                                                  
+Enter value: 3                                                                                                                     
+                                                                                                                                   
+ Opponent chose:1                                                                                                                  
+Enter value: 3                                                                                                                     
+                                                                                                                                   
+ Opponent chose:1                                                                                                                  
+AI won     
+
+
+____________________________________________________________________________________________________________________
+
+
+FOR STICKS = 53
+
+enter the initial number of sticks in the box                                                                                      
+53                    
+
+AI's chance first                                                                                                                  
+ Opponent chose:1                                                                                                                  
+Enter value: 3                                                                                                                     
+                                                                                                                                   
+ Opponent chose:1                                                                                                                  
+Enter value: 3                                                                                                                     
+                                                                                                                                   
+ Opponent chose:1                                                                                                                  
+Enter value: 3                                                                                                                     
+                                                                                                                                   
+ Opponent chose:1                                                                                                                  
+Enter value: 2                                                                                                                     
+                                                                                                                                   
+ Opponent chose:1                                                                                                                  
+Enter value: 1                                                                                                                     
+                                                                                                                                   
+ Opponent chose:3                                                                                                                  
+Enter value: 1                                                                                                                     
+                                                                                                                                   
+ Opponent chose:3                                                                                                                  
+Enter value: 3                                                                                                                     
+                                                                                                                                   
+ Opponent chose:1                                                                                                                  
+Enter value: 1                                                                                                                     
+                                                                                                                                   
+ Opponent chose:3                                                                                                                  
+AI won 
